@@ -1,2 +1,2 @@
 # OSSRH-73848
-Proof of Posession for Sonatype
+Proof of Possession for Sonatype
